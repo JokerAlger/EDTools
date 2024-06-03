@@ -10,23 +10,23 @@
 1. **Shift Cipher**
     - **加密**: 输入明文和密钥，通过移位密码对文本进行加密。
     - **解密**: 输入密文和密钥，通过移位密码对文本进行解密。
-    - ![](C:\Project\PythonProject\EDTools\EDTools\img\shift.png)
+    - ![shift.png](https://img.picui.cn/free/2024/06/03/665d316fd51c3.png)
 
 2. **Playfair Cipher**
     - **加密**: 输入明文和密钥，通过Playfair密码对文本进行加密。
     - **解密**: 输入密文和密钥，通过Playfair密码对文本进行解密。
-    - ![playfair](C:\Project\PythonProject\EDTools\EDTools\img\playfair.png)
+    - ![playfair.png](https://img.picui.cn/free/2024/06/03/665d31a17ba69.png)
     
 3. **DES**
     - **加密**: 输入明文和8字节密钥，通过DES算法对文本进行加密。
     - **解密**: 输入密文和8字节密钥，通过DES算法对文本进行解密。
-    - ![des](C:\Project\PythonProject\EDTools\EDTools\img\des.png)
+    - ![des.png](https://img.picui.cn/free/2024/06/03/665d31a1d6e58.png)
     
 4. **RSA**
     - **生成密钥**: 根据指定的密钥大小生成一对RSA公钥和私钥。
     - **加密**: 使用公钥对输入的明文进行加密。
     - **解密**: 使用私钥对输入的密文进行解密。
-    - ![rsa](C:\Project\PythonProject\EDTools\EDTools\img\rsa.png)
+    - ![rsa.png](https://img.picui.cn/free/2024/06/03/665d31a1f3e34.png)
 
 ### 界面布局
 软件包含四个主要的标签页，每个标签页对应一种加密算法。每个标签页都有相应的输入框、密钥输入框、加密按钮、解密按钮和输出框。用户可以在不同的标签页之间切换，以使用不同的加密算法。
