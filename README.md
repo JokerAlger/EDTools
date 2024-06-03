@@ -4,31 +4,29 @@
 ### 软件简介
 密码大师是一款用户友好的加密和解密工具箱，支持多种经典加密算法，包括Shift Cipher、Playfair Cipher、DES和RSA。该工具箱适用于学习和了解基本加密技术以及实际的加密解密应用。
 
-![Snipaste_2024-06-03_10-10-32](C:\Users\JokerAlger\Desktop\2023-2024第二学期\密码学\programs\Snipaste_2024-06-03_10-10-32.png)
 
 ### 功能概述
 
 1. **Shift Cipher**
     - **加密**: 输入明文和密钥，通过移位密码对文本进行加密。
     - **解密**: 输入密文和密钥，通过移位密码对文本进行解密。
-    - ![移位](img\shift.png)
+    - ![](C:\Project\PythonProject\EDTools\EDTools\img\shift.png)
 
-    
 2. **Playfair Cipher**
     - **加密**: 输入明文和密钥，通过Playfair密码对文本进行加密。
     - **解密**: 输入密文和密钥，通过Playfair密码对文本进行解密。
-    - ![playfair](img\playfair.png)
+    - ![playfair](C:\Project\PythonProject\EDTools\EDTools\img\playfair.png)
     
 3. **DES**
     - **加密**: 输入明文和8字节密钥，通过DES算法对文本进行加密。
     - **解密**: 输入密文和8字节密钥，通过DES算法对文本进行解密。
-    - ![des](img\des.png)
+    - ![des](C:\Project\PythonProject\EDTools\EDTools\img\des.png)
     
 4. **RSA**
     - **生成密钥**: 根据指定的密钥大小生成一对RSA公钥和私钥。
     - **加密**: 使用公钥对输入的明文进行加密。
     - **解密**: 使用私钥对输入的密文进行解密。
-    - ![rsa](img\rsa.png)
+    - ![rsa](C:\Project\PythonProject\EDTools\EDTools\img\rsa.png)
 
 ### 界面布局
 软件包含四个主要的标签页，每个标签页对应一种加密算法。每个标签页都有相应的输入框、密钥输入框、加密按钮、解密按钮和输出框。用户可以在不同的标签页之间切换，以使用不同的加密算法。
